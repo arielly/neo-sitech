@@ -1,5 +1,7 @@
 ---
-description: 专利号：US61723908
+description: 
+产品编号：HRI-501L
+专利号：US61723908
 ---
 
 # 高折光率树脂

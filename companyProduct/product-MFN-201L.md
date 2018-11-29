@@ -1,5 +1,7 @@
 ---
-description: 专利号：US61723908
+description: 
+产品编号：MFN-201L
+专利号：US61723908
 ---
 
 # 多能态纳米复合材料

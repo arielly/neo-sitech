@@ -1,5 +1,7 @@
 ---
-description: 专利号：US61723908
+description: 
+产品编号：SPW-101L
+专利号：US61723908
 ---
 
 # 紫外固化超亲水材料
