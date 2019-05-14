@@ -1,5 +1,5 @@
 ---
-description: 
+description:
 产品编号：SSQ-601L
 专利号：US61723908
 ---
